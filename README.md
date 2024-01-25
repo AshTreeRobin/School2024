@@ -1,2 +1,4 @@
 # School2024 Project page ^-^
-file:///Users/arstone2/Documents/GitHub/School2024/intro_to%20_html/index.html
+<ul>
+ <li> <a href="intro_to_html/index.html" target="_blank" >Intro To HTML</a>
+</ul>
