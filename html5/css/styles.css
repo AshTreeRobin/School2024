@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(57, 22, 22);
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 5%;
+}
+
+
+p { color: rgb(152, 112, 112);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(242, 237, 216);
+    text-align: center;
+}
+hr {
+    color: rgb(137, 11, 11);
+}
+li {
+    color: rgb(152, 112, 112);
+
+}
+h3 {
+    color: rgb(242, 237, 216);
+    text-align: center
+}
+
+#container {
+    background-color: rgb(36, 17, 12);
+    padding: 20px;
+    width: 75%;
+    margin: 0 auto;
+    border: 4px solid black;
+}
+header h1 {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(242, 237, 216);
+    text-shadow: 2px 2xp 2xp #000;
+}
+nav {
+    text-align: center;
+}
+nav a {
+    color: rgb(228, 152, 152);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10px;
+    text-align: center;
+}
+nav a:hover {
+    color: #9e6e6e;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+}
+a {
+    color: rgb(137, 11, 11);
+}
+main img {
+    display: block;
+    width: 20%;
+    margin: 20px auto;
+}
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+ul {
+list-style:inside
+}
+ul li {
+    margin-bottom: 20px;
+}
