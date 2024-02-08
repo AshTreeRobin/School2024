@@ -39,7 +39,7 @@ header h1 {
     text-align: center;
     font-size: 100px;
     color: rgb(242, 237, 216);
-    text-shadow: 2px 2xp 2xp #000;
+    text-shadow: 2px 2px 2px #000;
 }
 nav {
     text-align: center;
@@ -82,5 +82,6 @@ ul li {
 }
 footer {
     display: block;
+
  
   }
