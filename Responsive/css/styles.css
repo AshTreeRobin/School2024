@@ -1,0 +1,167 @@
+/* Global Stylez */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+body {
+    background-color: #F06A8D;
+}
+#container {
+    background-color: 	#f5c0c8;
+    padding: 15px;
+}
+
+a {
+    color: #ea3558;
+    text-decoration: none ;
+}
+
+a:hover{
+    color: #c8365d;
+    text-decoration: none;
+}
+
+/* Mobile Stylez */
+
+nav {
+    background-color: #ee7996;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #ef819c;
+    background-color: #f5c0c8;
+    text-align: center;
+    margin: 2px 0;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+nav li a :hover {
+    background-color: #f5c0c8;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #ea3558;
+}
+
+hr { 
+    border-color: #F06A8D; 
+    color: #F06A8D;
+    border-width: 2px; 
+      
+} 
+
+main {
+    border: 2px solid #F06A8D;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#lower {
+    border: 2px solid #F06A8D;
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    color: #ec678b;
+}
+
+p {
+    color: #ec678b;
+}
+
+.col {
+    border: 2px solid#F06A8D;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    padding: 35px;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #F06A8D;
+}
+
+#lower1, #lower2, #lower3 {
+    border: 2px solid #F06A8D;
+    padding: 15px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #ea3558;
+    color: #f5c0c8;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.button:hover {
+    color: #e2a7b0;
+}
+
+@media (min-width: 786px) {
+    nav {
+        text-align: center;
+    }
+    
+    nav li {
+        display: inline-block;
+    }
+    
+    nav li a {
+        width: 200px;
+    }
+    
+    main img {
+        width: 50%;
+    }
+}
+
+
+
+/* Desktop Stylez */
+@media (min-width: 1024px) {
+    ul {
+        list-style: none;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    #lower {
+        width: 100%;
+        display: flex;
+    }
+
+    .col {
+        width: 33.33%;
+    }
+}
