@@ -6,5 +6,5 @@
     <li><a href="https://ashtreerobin.github.io/School2024/html5/" target="_blank">html5 and css Alt Link</a></li>
     <li><a href="adv_css" target="_blank">Advanced CSS</a></li>
     <li><a href="Responsive" target="_blank"> Responsive </a></li>
-    <li><a href="Final" target="_blank"> Final Project_</a></li>
+    <li><a href="Final" target="_blank"> Final Project</a></li>
 
