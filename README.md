@@ -7,4 +7,3 @@
     <li><a href="adv_css" target="_blank">Advanced CSS</a></li>
     <li><a href="Responsive" target="_blank"> Responsive </a></li>
     <li><a href="final" target="_blank"> Final Project </a></li>
-</ul>
