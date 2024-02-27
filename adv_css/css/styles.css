@@ -1,0 +1,147 @@
+/* Global Styles */
+
+body {
+    background-color: rgb(57, 22, 22);
+}
+image {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {
+    background-color: rgb(36, 17, 12);
+    width: 80%;
+    margin: 20px auto;
+}
+
+a {
+    color: rgb(137, 11, 11);
+}
+
+a :hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: rgb(242, 237, 216);
+}
+
+p, ul {
+    color: rgb(152, 112, 112);
+   text-align: center;
+}
+
+/* Desktop styles */
+
+nav {
+    background-color: rgb(59, 30, 30);
+    padding: 5px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    color: rgb(137, 11, 11);
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+nav li a:hover {
+    color: brown;
+}
+
+head h1 {
+    font-size: 50px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+main {
+    padding: 20px;
+}
+main img {
+    width: 40%;
+}
+
+#lower {
+   display: flex; 
+}
+
+.col {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(242, 237, 216);
+    width: 33.33%;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center; 
+}
+
+hr {
+    width: 75%;
+}
+
+.button {
+    display: block;
+    background-color: rgb(57, 22, 22);
+    width: 125px;
+    height: 25px;
+    color: rgb(152, 112, 112);
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover {
+    color: bisque;
+}
+
+#xpacs {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+ }
+ .xpaccover {
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+ }
+ 
+ 
+ .xpaccover img {
+    width: 100%;
+ }
+ 
+ .colimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
